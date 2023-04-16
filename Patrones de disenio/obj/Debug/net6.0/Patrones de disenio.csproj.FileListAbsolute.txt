@@ -1,0 +1,15 @@
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\bin\Debug\net6.0\Patrones de disenio.exe
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\bin\Debug\net6.0\Patrones de disenio.deps.json
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\bin\Debug\net6.0\Patrones de disenio.runtimeconfig.json
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\bin\Debug\net6.0\Patrones de disenio.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\bin\Debug\net6.0\Patrones de disenio.pdb
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.csproj.AssemblyReference.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.AssemblyInfoInputs.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.AssemblyInfo.cs
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.csproj.CoreCompileInputs.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\refint\Patrones de disenio.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.pdb
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\Patrones de disenio.genruntimeconfig.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\Patrones de disenio\obj\Debug\net6.0\ref\Patrones de disenio.dll

@@ -1,0 +1,15 @@
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\bin\Debug\net6.0\PatronDecorator.exe
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\bin\Debug\net6.0\PatronDecorator.deps.json
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\bin\Debug\net6.0\PatronDecorator.runtimeconfig.json
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\bin\Debug\net6.0\PatronDecorator.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\bin\Debug\net6.0\PatronDecorator.pdb
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.csproj.AssemblyReference.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.AssemblyInfoInputs.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.AssemblyInfo.cs
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.csproj.CoreCompileInputs.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\refint\PatronDecorator.dll
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.pdb
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\PatronDecorator.genruntimeconfig.cache
+D:\Repos VisualStudio\xBatzzer\Patrones-de-dise-os-GOF\PatronDecorator\obj\Debug\net6.0\ref\PatronDecorator.dll
